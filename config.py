@@ -103,7 +103,7 @@ CONFIG = [
         'id': 13,
         'name': 'beard',
         'directory': '12_Beard_Trait',
-        'required': True,
+        'required': False,
         'rarity_weights': None,
     },
 ]
